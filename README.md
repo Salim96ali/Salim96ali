@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salim96ali
 - 👀 I’m interested in songs, food, chess, movies, and mobile cross app development using xamarin.forms
-- 🌱 I’m currently learning C# and .Net advanced concepts
-
+- 🌱 I’m currently diving in C# and .Net advanced concepts
+- ⛔ Don't let me drown.
 - 📫 How to reach me: telegram @sa96ali
 
 <!---
